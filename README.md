@@ -19,6 +19,8 @@ class Developer {
 const omar = new Developer("Omar", "Frontend Developer", "Egypt", "🇪🇬");
 console.log(omar.displayIntroduction());
 
+
+
 I'm a passionate Frontend Developer with a strong interest in building responsive and interactive user interfaces. I love turning ideas into real-world projects using modern technologies like React, TailwindCSS, and JavaScript. Always learning, always building. 🚀
 
 ## 🚀 Technologies & Tools
