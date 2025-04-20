@@ -1,3 +1,6 @@
+# Hi 👋! I'm Omar, a Frontend Developer from Egypt 🇪🇬
+
+```typescript
 class Developer {
   name: string;
   role: string;
