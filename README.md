@@ -15,7 +15,7 @@ I'm a passionate Frontend Developer with a strong interest in building responsiv
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarmadkour&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmadkour&layout=compact&theme=tokyonight)
 ![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=omarmadkour&repo=your-repo-name)
-![Omar's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarmadkour&theme=tokyonight)
+
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=omarmadkour.omarmadkour)
 
 
