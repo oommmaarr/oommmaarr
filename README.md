@@ -1,4 +1,11 @@
 # Hi 👋! I'm Omar, a Frontend Developer from Egypt
+  <script>
+    var typed= new Typed("#typed",
+    {
+      strings:[,"Reliable"  , "Comfortable" , "Customizable"],
+      typeSpeed:80,
+    })
+  </script>
 
 I'm a passionate Frontend Developer with a strong interest in building responsive and interactive user interfaces. I love turning ideas into real-world projects using modern technologies like React, TailwindCSS, and JavaScript. Always learning, always building. 🚀
 
