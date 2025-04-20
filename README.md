@@ -1,4 +1,23 @@
-# Hi 👋! I'm Omar, a Frontend Developer from Egypt 🇪🇬
+class Developer {
+  name: string;
+  role: string;
+  location: string;
+  emoji: string;
+
+  constructor(name: string, role: string, location: string, emoji: string) {
+    this.name = name;
+    this.role = role;
+    this.location = location;
+    this.emoji = emoji;
+  }
+
+  displayIntroduction(): string {
+    return `Hi 👋! I'm ${this.name}, a ${this.role} from ${this.location} ${this.emoji}`;
+  }
+}
+
+const omar = new Developer("Omar", "Frontend Developer", "Egypt", "🇪🇬");
+console.log(omar.displayIntroduction());
 
 I'm a passionate Frontend Developer with a strong interest in building responsive and interactive user interfaces. I love turning ideas into real-world projects using modern technologies like React, TailwindCSS, and JavaScript. Always learning, always building. 🚀
 
