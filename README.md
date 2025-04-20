@@ -39,4 +39,14 @@ I'm a passionate Frontend Developer with a strong interest in building responsiv
 
 I sometimes design UIs in my dreams, then wake up and build them. 😂
 
+🌍 Let's Connect
+<a href="https://www.linkedin.com/in/omar-madkour-268a53253" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:omammm15@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/amory1732">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
