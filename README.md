@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=650&lines=root%40amna-dev%3A~%24+./profile.sh;+++++HELLO_WORLD();+++++I'm+Omar+%F0%9F%96%95;+++++WEB_DEV%7CCODE_GLADIATOR+%F0%9F%92%AA;+++++COFFEE+%3D+%3E+CODE+%E2%98%95;root%40amna-dev%3A~%24+" alt="Terminal Style" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=650&lines=root%40Omar-dev%3A~%24+./profile.sh;+++++HELLO_WORLD();+++++I'm+Omar;+++++WEB_DEV%7CCODE_GLADIATOR+%F0%9F%92%AA;+++++COFFEE+%3D+%3E+CODE+%E2%98%95;root%40Omar-dev%3A~%24+" alt="Terminal Style" />
 </p>
 ---
 
