@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=720&lines=root%40Omar-dev%3A~%24+./profile.sh;HELLO_WORLD();I'm+Omar;FULL_STACK+WEB_DEV+%7C+CODE_GLADIATOR+%F0%9F%92%AA;COFFEE+%3D%3E+CODE+%E2%98%95;ALWAYS_LEARNING+%3D+TRUE+%F0%9F%94%8D;root%40Omar-dev%3A~%24+" alt="Terminal Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=720&lines=root%40Omar-dev%3A~%24+./profile.sh;HELLO_WORLD();I'm+Omar;FRONTEND DEVELOPER+WEB_DEV+%7C+CODE_GLADIATOR+%F0%9F%92%AA;COFFEE+%3D%3E+CODE+%E2%98%95;ALWAYS_LEARNING+%3D+TRUE+%F0%9F%94%8D;root%40Omar-dev%3A~%24+" alt="Terminal Typing Animation" />
 </p>
 
 <p align="center">
