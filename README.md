@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=650&lines=root%40Omar-dev%3A~%24+./profile.sh;+++++HELLO_WORLD();+++++I'm+Omar;+++++WEB_DEV%7CCODE_GLADIATOR+%F0%9F%92%AA;+++++COFFEE+%3D+%3E+CODE+%E2%98%95;root%40Omar-dev%3A~%24+" alt="Terminal Style" />
 </p>
----
+
 
 ## 👩‍💻 About Me
 
-I am a passionate web developer focused on crafting clean, responsive, and user-friendly websites.  
-Currently honing my skills in **HTML**, **CSS**, **JavaScript**, and **React**.  
-Driven by curiosity and continuous learning to build better projects every day.
+I'm a dedicated web developer with a passion for creating clean, responsive, and intuitive websites.
+Currently enhancing my expertise in HTML, CSS, JavaScript, and React.
+Motivated by curiosity and a commitment to continuous improvement, I strive to build better and smarter web experiences every day.
 
 ---
 
@@ -17,6 +17,7 @@ Driven by curiosity and continuous learning to build better projects every day.
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![TAILWIND](https://img.shields.io/badge/tailwind-563d7c?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com/)  
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 ---
