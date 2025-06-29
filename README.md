@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=650&lines=root%40Omar-dev%3A~%24+./profile.sh;+++++HELLO_WORLD();+++++I'm+Omar;+++++WEB_DEV%7CCODE_GLADIATOR+%F0%9F%92%AA;+++++COFFEE+%3D+%3E+CODE+%E2%98%95;root%40Omar-dev%3A~%24+" alt="Terminal Style" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FFAA&background=121212&width=720&lines=root%40Omar-dev%3A~%24+./profile.sh;HELLO_WORLD();I'm+Omar;FULL_STACK+WEB_DEV+%7C+CODE_GLADIATOR+%F0%9F%92%AA;COFFEE+%3D%3E+CODE+%E2%98%95;ALWAYS_LEARNING+%3D+TRUE+%F0%9F%94%8D;root%40Omar-dev%3A~%24+" alt="Terminal Typing Animation" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</p>
+
+<p align="center">
+  <b><i>const developer = { passion: "High ⚡", mindset: "Always Improving 🔁", fuel: "☕ + 💻", motto: "Code. Debug. Repeat." };</i></b>
+</p>
+
 
 
 ## 👨🏻‍💼 About Me
