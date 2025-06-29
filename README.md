@@ -3,7 +3,7 @@
 </p>
 
 
-## 👩‍💻 About Me
+## 👨🏻‍💼 About Me
 
 I'm a dedicated web developer with a passion for creating clean, responsive, and intuitive websites.
 Currently enhancing my expertise in HTML, CSS, JavaScript, and React.
@@ -41,11 +41,11 @@ Motivated by curiosity and a commitment to continuous improvement, I strive to b
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:amnaharaf272@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:omammm15@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Dev-Amna" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/oommmaarr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
